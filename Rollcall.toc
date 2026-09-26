@@ -1,0 +1,9 @@
+## Interface: 11200
+## Title: Rollcall
+## Notes: Shows who picked Need, Greed and Pass beside the normal roll windows, and flags a Need from a class that can never use the item.
+## Author: Salahaja
+## Version: 1.0.0
+## DefaultState: enabled
+## SavedVariables: RollcallDB
+
+Rollcall.lua
