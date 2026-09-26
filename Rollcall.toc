@@ -1,9 +1,12 @@
 ## Interface: 11200
 ## Title: Rollcall
-## Notes: Shows who picked Need, Greed and Pass beside the normal roll windows, and flags a Need from a class that can never use the item.
+## Notes: Shows who picked Need, Greed and Pass beside the normal roll windows, keeps a loot history of who rolled what and who won - bosses apart from trash - and announces it to your group.
 ## Author: Salahaja
-## Version: 1.0.0
+## Version: 1.1.0
 ## DefaultState: enabled
+## OptionalDeps: AtlasLoot
 ## SavedVariables: RollcallDB
 
 Rollcall.lua
+History.lua
+HistoryFrame.lua
